@@ -1,4 +1,4 @@
-#include "stdafx.h"
+
 #include <iostream>
 #include <conio.h>
 #include "stack.h"
