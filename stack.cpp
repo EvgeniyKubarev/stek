@@ -1,4 +1,4 @@
-#include "stdafx.h"
+
 #include <iostream>
 #include "stack.h"
 using namespace std;
